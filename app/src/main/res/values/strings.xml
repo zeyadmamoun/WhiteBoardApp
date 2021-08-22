@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="image_small">image_small</string>
+    <string name="image_medium">image_medium</string>
+    <string name="image_large">image_large</string>
+    <string name="brushimage">brushImage</string>
+    <string name="skin">skin</string>
+    <string name="black" />
+    <string name="color_pallet">color_pallet</string>
+    <string name="background_image">background_Image</string>
+    <string name="galleryBtn">gallery_button</string>
+    <string name="undoBtn">undoBtn</string>
+    <string name="save">save</string>
+</resources>
